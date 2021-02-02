@@ -1,0 +1,31 @@
+h1{
+    color:aqua
+}
+p{
+    color:blueviolet
+}
+h2{
+    color:crimson
+}
+.header{
+    background-color: blanchedalmond;
+    display:flex;
+    justify-content: space-between;
+}
+.point{
+    background-color: burlywood;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.day{
+    background-color: cadetblue;
+    display:flex;
+    justify-content:safe;
+}
+.Tolkien{
+    background-color: lemonchiffon;
+    display:flex;
+    justify-content: flex-end;
+    align-content: unset;
+}
